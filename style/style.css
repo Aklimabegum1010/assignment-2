@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Mulish", sans-serif;
+}
+
+.header-section {
+    max-width: 1170px;
+    margin: 0 auto;
+    height: 400px;
+
+}
+
+.nav-section {
+    display: flex;
+    margin-top: 50px;
+}
+
+.nav-container {
+    /* border: 2px solid red; */
+    display: flex;
+    width: 50%;
+    align-items: center;
+    gap: 10px;
+    font-size: 36px;
+    font-weight: 800;
+
+}
+
+.travel-span{
+    color: #FF5400;
+}
+
+.item-container {
+    /* border: 2px solid blue; */
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-between;
+    /* font-weight: 400; */
+}
+
+.item-container ul {
+    display: flex;
+    gap: 40px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.home-span{
+    color: #FF5400;
+}
+
+
+
+.banner {
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url(../Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-size: cover;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+    justify-content: center;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+
+.banner-items {
+    color: #fff;
+    padding: 200px 100px;
+}
+
+
+.banner-section {
+    font-size: 64px;
+    font-weight: 800;
+}
+
+.banner-description {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 60px;
+
+}
+
+
+.button-section {
+    padding: 10px 16px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+
+
+
+}
+
+.btn-primary{
+    color: rgba(19, 19, 24, 0.50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    border: 0;
+    border-radius: 8px;
+}
+
+.btn-3{
+    color: rgba(19, 19, 24, 0.50);
+    background-color: #FFF;
+    padding: 16px 84px 16px 16px;
+    border: 0;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn-1{
+    color: rgba(19, 19, 24, 0.50);
+    background-color: #FFF;
+    padding: 16px 84px 16px 16px;
+    border: 0;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn-2{
+    color: rgba(19, 19, 24, 0.50);
+    background-color: #FFF;
+    padding: 16px 84px 16px 16px;
+    border: 0;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn-4{
+    color: #fff;
+    background-color: #FF5400;
+    padding: 16px 84px 16px 16px;
+    border: 0;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+/* .btn-primary{
+    
+    color: rgba(19, 19, 24, 0.50);
+    border: 0;
+    border-radius: 8px;
+    
+}
+
+.btn-1{
+    padding: 16px 84px 16px 16px;
+    color: rgba(19, 19, 24, 0.50);
+    border-radius: 8px;
+    border: 0;
+}
+
+.btn-2{
+    padding: 16px 84px 16px 16px;
+    color: rgba(19, 19, 24, 0.50);
+    border-radius: 8px;
+    border: 0;
+}
+
+
+.btn-3{
+    padding: 16px 84px 16px 16px;
+    color: rgba(19, 19, 24, 0.50);
+    border-radius: 8px;
+    border: 0;
+}
+
+
+.btn-4{
+    padding: 16px 84px 16px 16px;
+    color: #fff;
+    background-color: #FF5400;
+    border-radius: 8px;
+    border: 0;
+    gap: 20px;
+} */
