@@ -1,0 +1,30 @@
+@media screen and (max-width:600px) {
+    .nav-section{
+        flex-direction: column;
+        /* margin-left: 200px; */
+        align-items: center;
+    }
+
+    .nav-container{
+        margin-left: 100px;
+    }
+
+
+
+    .item-container ul{
+        flex-direction: column;
+        margin-left: 100px;
+    }
+
+    .banner{
+        width: 90%;
+        margin: 50px 50px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .btn-primary{
+        flex-direction: column;
+    }
+
+}
